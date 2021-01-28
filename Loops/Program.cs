@@ -14,7 +14,7 @@ namespace Loops
 
             //array - dizi
 
-            string[] courses = new string[] { "A" , "B" , "C","D","E };
+            string[] courses = new string[] { "A" , "B" , "C","D","E" };
 
 
 

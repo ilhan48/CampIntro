@@ -3,17 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampIntro", "CampIntro\CampIntro.csproj", "{7E935BBC-FCCE-40FF-AD2A-D26EF6A91B4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CampIntro", "CampIntro\CampIntro.csproj", "{7E935BBC-FCCE-40FF-AD2A-D26EF6A91B4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{4969ACDE-1F08-4ABB-B742-DC303A54C35A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops", "Loops\Loops.csproj", "{4969ACDE-1F08-4ABB-B742-DC303A54C35A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "OOP\ClassIntro.csproj", "{65CCF6B2-6D2F-4FEF-B48C-3F7D0FFC4ED7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "OOP\ClassIntro.csproj", "{65CCF6B2-6D2F-4FEF-B48C-3F7D0FFC4ED7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch-case", "ConsoleApp1\Switch-case.csproj", "{D5E34FDD-5931-4648-998B-0BFD82F6DC2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Switch-case", "ConsoleApp1\Switch-case.csproj", "{D5E34FDD-5931-4648-998B-0BFD82F6DC2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Whileloop", "Whileloop\Whileloop.csproj", "{D3D0CD91-7803-4EDB-8DFE-6C135ABAFF2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Whileloop", "Whileloop\Whileloop.csproj", "{D3D0CD91-7803-4EDB-8DFE-6C135ABAFF2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework2", "Homework2\Homework2.csproj", "{37D7C323-0E7C-4211-AB15-2238D26DC391}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework2", "Homework2\Homework2.csproj", "{37D7C323-0E7C-4211-AB15-2238D26DC391}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Metodlar\Methods.csproj", "{F50CBE07-881E-44D3-BA5D-757BE8569155}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math", "Math\Math.csproj", "{4D332A8C-9DFA-4C19-918B-81A58DE0930B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{6463FC2B-B3D8-41BA-98B5-044DDAC5E8C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{4022CC9E-3090-4A73-819C-52ED5F3C0CB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +53,22 @@ Global
 		{37D7C323-0E7C-4211-AB15-2238D26DC391}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37D7C323-0E7C-4211-AB15-2238D26DC391}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37D7C323-0E7C-4211-AB15-2238D26DC391}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F50CBE07-881E-44D3-BA5D-757BE8569155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F50CBE07-881E-44D3-BA5D-757BE8569155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F50CBE07-881E-44D3-BA5D-757BE8569155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F50CBE07-881E-44D3-BA5D-757BE8569155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D332A8C-9DFA-4C19-918B-81A58DE0930B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D332A8C-9DFA-4C19-918B-81A58DE0930B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D332A8C-9DFA-4C19-918B-81A58DE0930B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D332A8C-9DFA-4C19-918B-81A58DE0930B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6463FC2B-B3D8-41BA-98B5-044DDAC5E8C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6463FC2B-B3D8-41BA-98B5-044DDAC5E8C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6463FC2B-B3D8-41BA-98B5-044DDAC5E8C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6463FC2B-B3D8-41BA-98B5-044DDAC5E8C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4022CC9E-3090-4A73-819C-52ED5F3C0CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4022CC9E-3090-4A73-819C-52ED5F3C0CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4022CC9E-3090-4A73-819C-52ED5F3C0CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4022CC9E-3090-4A73-819C-52ED5F3C0CB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
