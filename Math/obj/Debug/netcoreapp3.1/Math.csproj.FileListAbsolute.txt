@@ -1,0 +1,12 @@
+D:\C#\CampIntro\Math\bin\Debug\netcoreapp3.1\Math.exe
+D:\C#\CampIntro\Math\bin\Debug\netcoreapp3.1\Math.deps.json
+D:\C#\CampIntro\Math\bin\Debug\netcoreapp3.1\Math.runtimeconfig.json
+D:\C#\CampIntro\Math\bin\Debug\netcoreapp3.1\Math.runtimeconfig.dev.json
+D:\C#\CampIntro\Math\bin\Debug\netcoreapp3.1\Math.dll
+D:\C#\CampIntro\Math\bin\Debug\netcoreapp3.1\Math.pdb
+D:\C#\CampIntro\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfoInputs.cache
+D:\C#\CampIntro\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfo.cs
+D:\C#\CampIntro\Math\obj\Debug\netcoreapp3.1\Math.csproj.CoreCompileInputs.cache
+D:\C#\CampIntro\Math\obj\Debug\netcoreapp3.1\Math.dll
+D:\C#\CampIntro\Math\obj\Debug\netcoreapp3.1\Math.pdb
+D:\C#\CampIntro\Math\obj\Debug\netcoreapp3.1\Math.genruntimeconfig.cache
