@@ -21,17 +21,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math", "Math\Math.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{6463FC2B-B3D8-41BA-98B5-044DDAC5E8C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{4022CC9E-3090-4A73-819C-52ED5F3C0CB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{4022CC9E-3090-4A73-819C-52ED5F3C0CB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{E0EC46AE-2816-4E32-ADB6-F76DA9C4CCA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{E0EC46AE-2816-4E32-ADB6-F76DA9C4CCA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{2B4C4F7F-6E14-4DDA-BF2C-D9160068E581}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{2B4C4F7F-6E14-4DDA-BF2C-D9160068E581}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework5Day4", "Homework5Day4\Homework5Day4.csproj", "{C3F700C4-869F-4025-A0D1-31A218EBCA2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework5Day4", "Homework5Day4\Homework5Day4.csproj", "{C3F700C4-869F-4025-A0D1-31A218EBCA2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{3084D73E-22A7-4C76-B943-D586E333A7BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", "{3084D73E-22A7-4C76-B943-D586E333A7BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{A2177A73-6285-4E6D-BEC9-5E686A033953}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{A2177A73-6285-4E6D-BEC9-5E686A033953}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReCap1", "WindowsFormsApp1\ReCap1.csproj", "{0449CC61-399C-4481-BE29-D05B89F79E33}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{A2177A73-6285-4E6D-BEC9-5E686A033953}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2177A73-6285-4E6D-BEC9-5E686A033953}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2177A73-6285-4E6D-BEC9-5E686A033953}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0449CC61-399C-4481-BE29-D05B89F79E33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0449CC61-399C-4481-BE29-D05B89F79E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0449CC61-399C-4481-BE29-D05B89F79E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0449CC61-399C-4481-BE29-D05B89F79E33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
