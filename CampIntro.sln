@@ -35,6 +35,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReCap1", "WindowsFormsApp1\ReCap1.csproj", "{0449CC61-399C-4481-BE29-D05B89F79E33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{8D2EA7AF-F3C9-4480-BE32-CF8E50509726}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{0449CC61-399C-4481-BE29-D05B89F79E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0449CC61-399C-4481-BE29-D05B89F79E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0449CC61-399C-4481-BE29-D05B89F79E33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D2EA7AF-F3C9-4480-BE32-CF8E50509726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D2EA7AF-F3C9-4480-BE32-CF8E50509726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D2EA7AF-F3C9-4480-BE32-CF8E50509726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D2EA7AF-F3C9-4480-BE32-CF8E50509726}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
